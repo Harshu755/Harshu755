@@ -1,5 +1,5 @@
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "name": "𝚃𝙷𝙴 USERBOT",
+  "description": "The USERBOT made by @Harshal935 special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
   "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
     "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/harshu755/USERBOT/",
+  "website": "https://github.com/Harshu755/USERBOT/",
+  "success_url": "https://t.me/USERBOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,22 +23,22 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "value": "@USERBOT_Support",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "😈USERBOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "description": "Put here any telegraph media link for alive pic in .userbot command.",
       "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO USER BOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -121,7 +121,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+      "value": "1912408567:AAHIRIa4I35CODdOOdq7ApJwpJfwE7E2Ecg"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -135,7 +135,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@userbot_public_bot
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
