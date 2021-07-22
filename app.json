@@ -1,5 +1,5 @@
-  "name": "𝚃𝙷𝙴 USERBOT",
-  "description": "The USERBOT made by @Harshal935 special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @USERBot_Support7",
+  "name": "𝚃𝙷𝙴 Harshu755",
+  "description": "The Harshu755 made by @Harshal935 special thanks to respective Mafiabot owner @H1M4N5HUOP Join for updates related info @USERBot_Support7",
   "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
     "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/harshu755/USERBOT/",
-  "website": "https://github.com/Harshu755/USERBOT/",
-  "success_url": "https://t.me/USERBOT_SUPPORT",
+  "repository": "https://github.com/harshu755/Harshu755/",
+  "website": "https://github.com/Harshu755/Harshu755/",
+  "success_url": "https://t.me/USERBOT_SUPPORT7",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
